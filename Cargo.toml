@@ -5,7 +5,7 @@ authors = ["LTT <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
 description = "LTTp"
-default-run = "rustdesk"
+default-run = "LTT"
 rust-version = "1.75"
 
 [lib]
